@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+      <title> on Reed Odeneal </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://reedodeneal.github.io/</link>
     <language>en-us</language>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <updated>Sun, 09 Aug 2015 16:16:33 EDT</updated>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://reedodeneal.github.io/post/welcome/</link>
+      <pubDate>Sun, 09 Aug 2015 16:16:33 EDT</pubDate>
+      
+      <guid>https://reedodeneal.github.io/post/welcome/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
